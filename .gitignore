@@ -1,6 +1,19 @@
+#editors
 gbl_shop.code-workspace 
 .vscode
+*.swp
+.idea/
+.vs/
+.DS_Store
+
+#ds
 db.config.ts
+
+#binaries
+bin/
+dist/
+build
+lib/
 
 # Logs
 logs
