@@ -1,6 +1,6 @@
 gbl_shop.code-workspace 
 .vscode
-
+db.config.ts
 
 # Logs
 logs
