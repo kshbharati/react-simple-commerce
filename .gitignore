@@ -68,6 +68,7 @@ typings/
 .npm
 
 # Optional eslint cache
+.eslint
 .eslintcache
 
 # Microbundle cache
